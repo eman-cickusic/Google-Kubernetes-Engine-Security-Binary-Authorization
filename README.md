@@ -15,7 +15,7 @@ Not enforcing where images originate from presents several risks:
 - Authorized users with pod creation permissions may accidentally or maliciously run undesired containers
 - Authorized users may accidentally or maliciously overwrite container images with modified code
 
-## Video
+## Video 
 
 https://youtu.be/2evJMWa7Z-Q
 
