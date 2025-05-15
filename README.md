@@ -20,7 +20,7 @@ Not enforcing where images originate from presents several risks:
 https://youtu.be/2evJMWa7Z-Q
 
 
-## Architecture
+## Architecture 
 
 Binary Authorization and Container Analysis APIs are based on the open-source projects Grafeas and Kritis:
 
